@@ -1,0 +1,13 @@
+{
+  "id": "subtitlecat",
+  "name": "SubtitleCat",
+  "version": "1.0.0",
+  "apiVersion": 6,
+  "entry": "plugin.js",
+  "description": "Subtítulos de SubtitleCat en español y muchos otros idiomas, para cualquier película o serie que veas en Kino.",
+  "author": "kinotvapp",
+  "homepage": "https://github.com/kinotvapp/kino-plugin-subtitlecat",
+  "hosts": ["www.subtitlecat.com", "subtitlecat.com", "v3-cinemeta.strem.io"],
+  "capabilities": ["subtitles"],
+  "color": "#F5A623"
+}

@@ -1,0 +1,11 @@
+[
+ {
+  "name": "PHPSESSID",
+  "value": "gjji98p5sp0dll72qluvei1tau",
+  "domain": "www.subtitlecat.com",
+  "hostOnly": true,
+  "path": "/",
+  "secure": false,
+  "expires": 9007199254740991
+ }
+]
